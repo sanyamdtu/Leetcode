@@ -28,17 +28,3 @@ public:
                 j++;
             }           
         }
-        while(i>=0&&k){
-            v.push_back(arr[i]);
-            k--;
-            i--;
-        }
-        while(j<n&&k){
-            v.push_back(arr[j]);
-            k--;
-            j++;
-        }
-        sort(v.begin(),v.end());
-        return v;
-    }
-};
