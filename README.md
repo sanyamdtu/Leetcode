@@ -6,6 +6,7 @@
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|8 ms|
+|198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|188 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./solutions/240.%20Search%20a%202D%20Matrix%20II.cpp)|84 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|36 ms|
