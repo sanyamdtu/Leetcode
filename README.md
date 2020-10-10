@@ -20,6 +20,7 @@
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[C++](./solutions/983.%20Minimum%20Cost%20For%20Tickets.cpp)|16 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
+|1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|212 ms|
 |1277|[ Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](./solutions/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp)|120 ms|
 |1283|[ Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[C++](./solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|60 ms|
