@@ -22,6 +22,7 @@
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|212 ms|
+|1227|[ Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[C++](./solutions/1227.%20Airplane%20Seat%20Assignment%20Probability.cpp)|0 ms|
 |1277|[ Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](./solutions/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp)|120 ms|
 |1283|[ Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[C++](./solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|60 ms|
 |1292|[ Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[C++](./solutions/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.cpp)|160 ms|
