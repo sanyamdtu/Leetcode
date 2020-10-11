@@ -11,6 +11,7 @@
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./solutions/240.%20Search%20a%202D%20Matrix%20II.cpp)|84 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|36 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|0 ms|
+|413|[ Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./solutions/413.%20Arithmetic%20Slices.cpp)|192 ms|
 |436|[ Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[C++](./solutions/436.%20Find%20Right%20Interval.cpp)|108 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./solutions/454.%204Sum%20II.cpp)|516 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|4 ms|
