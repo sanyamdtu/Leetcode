@@ -28,6 +28,7 @@
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./solutions/740.%20Delete%20and%20Earn.cpp)|N/A|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |813|[ Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[C++](./solutions/813.%20Largest%20Sum%20of%20Averages.cpp)|16 ms|
+|873|[ Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[C++](./solutions/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.cpp)|264 ms|
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|108 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|1196 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
