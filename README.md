@@ -42,6 +42,7 @@
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
 |1139|[ Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[C++](./solutions/1139.%20Largest%201-Bordered%20Square.cpp)|N/A|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|212 ms|
+|1218|[ Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](./solutions/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.cpp)|448 ms|
 |1227|[ Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[C++](./solutions/1227.%20Airplane%20Seat%20Assignment%20Probability.cpp)|0 ms|
 |1262|[ Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](./solutions/1262.%20Greatest%20Sum%20Divisible%20by%20Three.cpp)|116 ms|
 |1277|[ Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](./solutions/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp)|120 ms|
