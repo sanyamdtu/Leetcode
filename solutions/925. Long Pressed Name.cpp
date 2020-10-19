@@ -6,7 +6,7 @@ public:
         if(s[0]!=t[0])
             f=1;
         while(i<n&&j<m&&f==0){
-            cout<<i<<" "<<j<<endl;
+            // cout<<i<<" "<<j<<endl;
             if(s[i]==t[j]){
                 i++;
                 j++;
@@ -19,7 +19,7 @@ public:
                     f=1;
             }
         }
-        cout<<j;
+        // cout<<j;
         while(j<m&&t[j]==t[j-1])
             j++;
         if(i!=n||j!=m)
