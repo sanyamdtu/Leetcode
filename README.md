@@ -8,6 +8,7 @@
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./solutions/72.%20Edit%20Distance.cpp)|0 ms|
+|88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./solutions/88.%20Merge%20Sorted%20Array.cpp)|4 ms|
 |120|[ Triangle](https://leetcode.com/problems/triangle/)|[C++](./solutions/120.%20Triangle.cpp)|8 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|8 ms|
