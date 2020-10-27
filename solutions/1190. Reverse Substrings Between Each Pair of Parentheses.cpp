@@ -10,7 +10,7 @@ public:
                 curr="";
             }
             else if(s[i]==')'){
-                reverse(curr.begin(),curr.end());
+                 reverse(curr.begin(),curr.end());
                  curr=stk.top()+curr;
                 stk.pop();
             }
