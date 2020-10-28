@@ -54,6 +54,7 @@
 |978|[ Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[C++](./solutions/978.%20Longest%20Turbulent%20Subarray.cpp)|128 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[C++](./solutions/983.%20Minimum%20Cost%20For%20Tickets.cpp)|16 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|60 ms|
+|1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[C++](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.cpp)|24 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](./solutions/1004.%20Max%20Consecutive%20Ones%20III.cpp)|132 ms|
 |1027|[ Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[C++](./solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)|404 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
