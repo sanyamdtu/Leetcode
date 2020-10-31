@@ -5,6 +5,7 @@
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|408 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[C++](./solutions/15.%203Sum.cpp)|160 ms|
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./solutions/16.%203Sum%20Closest.cpp)|28 ms|
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|12 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./solutions/27.%20Remove%20Element.cpp)|0 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|4 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
