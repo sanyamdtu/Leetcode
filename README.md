@@ -73,6 +73,7 @@
 |1027|[ Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[C++](./solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)|404 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|132 ms|
+|1091|[ Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./solutions/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)|96 ms|
 |1105|[ Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./solutions/1105.%20Filling%20Bookcase%20Shelves.cpp)|1396 ms|
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
 |1139|[ Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[C++](./solutions/1139.%20Largest%201-Bordered%20Square.cpp)|N/A|
