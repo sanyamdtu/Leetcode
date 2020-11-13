@@ -27,7 +27,7 @@ public:
             for(int i=0;i<4;i++){
                 int p= x+dx[i];
                 int qw= y+dy[i];
-                if(p>=0&&qw>=0&&p<n&&qw<n&&arr[p][qw]==0&&dist[p][qw]>dist[x][y]+1){
+                if(p>=0&&qw>=0&&p<n&&qw<n&&arr[p][qw]==0&&dist[p][qw]==INT_MAX){
                     dist[p][qw]=dist[x][y]+1;
                     q.push({p,qw});
                 }
