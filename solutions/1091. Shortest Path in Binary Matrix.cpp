@@ -26,7 +26,7 @@ public:
                 
                 if(c>=0&&d>=0&&c<n&&d<n&&arr[c][d]==0){
                     // cout<<c<<" "<<d<<endl;;
-                    if(dist[c][d]>dist[x][y]+1){
+                    if(dist[c][d]==100000){
                         
                         q.push({c,d});
                         dist[c][d]=dist[x][y]+1;
