@@ -25,7 +25,7 @@ public:
             for(int i=0;i<4;i++){
                 int c=x+dx[i];
                 int d=y+dy[i];
-                if(c>=0&&d>=0&&c<n&&d<m&&arr[c][d]==1&&dist[c][d]>dist[x][y]+1){
+                if(c>=0&&d>=0&&c<n&&d<m&&arr[c][d]==1&&dist[c][d]==INT_MAX){
                     q.push({c,d});
                     dist[c][d]=dist[x][y]+1;
                 }
@@ -35,3 +35,11 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(arr[i][j]==1)
+                    c=max(dist[i][j],c);
+            }
+        }
+        if(c==INT_MAX)
+            return -1;
+        return c;        
+    }
+};
