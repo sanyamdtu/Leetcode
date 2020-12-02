@@ -71,6 +71,7 @@
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|12 ms|
+|968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](./solutions/968.%20Binary%20Tree%20Cameras.cpp)|16 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|48 ms|
 |978|[ Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[C++](./solutions/978.%20Longest%20Turbulent%20Subarray.cpp)|128 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[C++](./solutions/983.%20Minimum%20Cost%20For%20Tickets.cpp)|16 ms|
