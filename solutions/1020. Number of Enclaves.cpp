@@ -1,23 +1,33 @@
 class Solution {
 public:
-    int vis[600][600];
     int n,m;
-    void func(int i,int j,vector<vector<int>>&arr){
-        
-        if(i==-1||j==-1||i==n||j==m)
+    void func(vector<vector<int>>& arr,int i,int j){
+        if(i<0||j<0||i>=n||j>=m||arr[i][j]==0)
             return ;
-        // cout<<i<<" "<<j<<" "<<endl;
-        if(vis[i][j]==1)
-            return ;
-        
-        if(arr[i][j]==0)
-            return ;
-        // cout<<"pop";
-        vis[i][j]=1;
-        func(i+1,j,arr);
-        func(i,j+1,arr);
-        func(i,j-1,arr);
-        func(i-1,j,arr);
+        arr[i][j]=0;
+        func(arr,i+1,j);
+        func(arr,i-1,j);
+        func(arr,i,j-1);
+        func(arr,i,1+j);
     }
-    int numEnclaves(vector<vector<int>>&arr) {        
+    int numEnclaves(vector<vector<int>>& arr) {
         n=arr.size();
+        m=arr[0].size();
+        for(int i=0;i<n;i++){
+            func(arr,i,0);
+            func(arr,i,m-1);
+        }
+        for(int i=0;i<m;i++){
+            func(arr,0,i);
+            func(arr,n-1,i);
+        }
+        int c=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(arr[i][j]==1)
+                    c++;
+            }
+        }
+        return c;
+    }
+};
