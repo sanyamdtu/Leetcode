@@ -84,6 +84,7 @@
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[C++](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.cpp)|24 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](./solutions/1004.%20Max%20Consecutive%20Ones%20III.cpp)|132 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)|8 ms|
+|1020|[ Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[C++](./solutions/1020.%20Number%20of%20Enclaves.cpp)|116 ms|
 |1027|[ Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[C++](./solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)|404 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|132 ms|
