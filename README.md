@@ -48,6 +48,7 @@
 |413|[ Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./solutions/413.%20Arithmetic%20Slices.cpp)|192 ms|
 |430|[ Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](./solutions/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)|4 ms|
 |436|[ Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[C++](./solutions/436.%20Find%20Right%20Interval.cpp)|108 ms|
+|443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|4 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|36 ms|
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](./solutions/450.%20Delete%20Node%20in%20a%20BST.cpp)|72 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./solutions/454.%204Sum%20II.cpp)|516 ms|
