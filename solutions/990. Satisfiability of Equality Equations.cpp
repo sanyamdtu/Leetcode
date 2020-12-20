@@ -21,7 +21,7 @@ public:
             else{
                 par[px]=py;
                 r[py]++;
-            }
+            }
         }
     }
     bool equationsPossible(vector<string>& arr) {
