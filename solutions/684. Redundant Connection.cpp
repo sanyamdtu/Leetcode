@@ -1,44 +1,36 @@
-/*
- * @lc app=leetcode id=684 lang=cpp
- *
- * [684] Redundant Connection
- */
-​
-// @lc code=start
-​
-class Solution
-{
-    int func(int pa[], int k)
-    {
-        if (pa[k] == k)
-            return k;
-        return func(pa, pa[k]);
-    }
-​
+class Solution {
 public:
-    vector<int> findRedundantConnection(vector<vector<int>> &arr)
-    {
-        int n = arr.size();
-        int par[n + 1];
-        for (int i = 0; i < n + 1; i++)
-        {
-            par[i] = i;
-        }
-        vector<int> ans;
-        for (auto i : arr)
-        {
-            // cout << func(par, i[0]) << " " << func(par, i[1]) << endl;
-            if (func(par, i[0]) == func(par, i[1]))
-            {
-                ans = i;
-            }
-            else
-            {
-                par[func(par, i[0])] = func(par, i[1]);
-            }
-        }
-        return ans;
+    int find(int x,int p[]){
+        if(x==p[x])
+            return x;
+        return p[x]=find(p[x],p);
     }
+    void un(int x,int y,int p[],int r[]){
+        int px=find(x,p);
+        int py=find(y,p);
+        if(r[px]>r[py])
+            p[py]=px;
+        else if(r[px]<r[py])
+            p[px]=py;
+        else{
+            p[px]=py;
+            r[py]++;
+        }
+    }
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int r[edges.size()+1],p[edges.size()+1];
+        for(int i=0;i<edges.size()+1;i++)
+        {
+            r[i]=1;
+            p[i]=i;
+        }
+        for(auto i:edges){
+            if(find(i[0],p)==find(i[1],p))
+                return i;
+            else
+                un(i[0],i[1],p,r);
+        }
+        vector<int> v;
+        return v;
+    }
 };
-// @lc code=end
-​
