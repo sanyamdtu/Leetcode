@@ -61,6 +61,7 @@
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|4 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|100 ms|
 |684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[C++](./solutions/684.%20Redundant%20Connection.cpp)|12 ms|
+|685|[ Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[C++](./solutions/685.%20Redundant%20Connection%20II.cpp)|12 ms|
 |712|[ Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[C++](./solutions/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.cpp)|28 ms|
 |714|[ Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](./solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)|200 ms|
 |718|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[C++](./solutions/718.%20Maximum%20Length%20of%20Repeated%20Subarray.cpp)|236 ms|
