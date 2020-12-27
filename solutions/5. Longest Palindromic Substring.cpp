@@ -36,13 +36,3 @@ public:
             for(int j=i;j<n;j++){
                 if(ans==dp[i][j]){
                     for(int k=i;k<=j;k++)
-                        res+=s[k];
-                    return res;
-                }
-            }
-            
-        }
-        return "";
-        
-    }
-};
