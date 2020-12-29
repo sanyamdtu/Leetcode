@@ -78,6 +78,7 @@
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[C++](./solutions/907.%20Sum%20of%20Subarray%20Minimums.cpp)|496 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|392 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
+|934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|92 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|12 ms|
 |950|[ Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[C++](./solutions/950.%20Reveal%20Cards%20In%20Increasing%20Order.cpp)|4 ms|
