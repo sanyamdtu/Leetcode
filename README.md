@@ -81,6 +81,7 @@
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|92 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|12 ms|
+|947|[ Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](./solutions/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)|104 ms|
 |950|[ Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[C++](./solutions/950.%20Reveal%20Cards%20In%20Increasing%20Order.cpp)|4 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[C++](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.cpp)|4 ms|
 |959|[ Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[C++](./solutions/959.%20Regions%20Cut%20By%20Slashes.cpp)|12 ms|
