@@ -87,6 +87,7 @@
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[C++](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.cpp)|4 ms|
 |959|[ Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[C++](./solutions/959.%20Regions%20Cut%20By%20Slashes.cpp)|12 ms|
 |968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](./solutions/968.%20Binary%20Tree%20Cameras.cpp)|16 ms|
+|974|[ Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[C++](./solutions/974.%20Subarray%20Sums%20Divisible%20by%20K.cpp)|116 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|48 ms|
 |978|[ Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[C++](./solutions/978.%20Longest%20Turbulent%20Subarray.cpp)|128 ms|
 |979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C++](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.cpp)|8 ms|
