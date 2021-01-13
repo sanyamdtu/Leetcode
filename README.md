@@ -105,6 +105,7 @@
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|8 ms|
 |990|[ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[C++](./solutions/990.%20Satisfiability%20of%20Equality%20Equations.cpp)|16 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|12 ms|
+|1001|[ Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[C++](./solutions/1001.%20Grid%20Illumination.cpp)|728 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[C++](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.cpp)|24 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](./solutions/1004.%20Max%20Consecutive%20Ones%20III.cpp)|132 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)|8 ms|
