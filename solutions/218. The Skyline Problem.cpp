@@ -25,3 +25,14 @@ public:
                     curr=*(q.begin());
                 }   
             }
+            else{
+                q.erase(q.find(i[1]));
+                if(curr>*(q.begin())){
+                    curr=*(q.begin());
+                    ans.push_back({i[0],curr}); 
+                }
+            }
+        }
+        return ans;
+    }
+};
