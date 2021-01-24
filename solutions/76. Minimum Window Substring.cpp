@@ -1,36 +1,27 @@
 class Solution {
 public:
-    string minWindow(string a, string b) {
-        unordered_map<char,int> m;
-        for(auto i:b){
-            m[i]++;
-        }
-        int ans=INT_MAX,idx=-1;
-        int n=a.length();
-        for(int i=0,j=0;j<n;j++){
-            int f=0;
-            m[a[j]]--;
-            for(auto k:m)
-                if(k.second>0)
-                    f=1;
-            if(f!=1){
-                for(;i<=j;i++){
-                    if(m[a[i]]==0)
-                        break;
-                    else
-                        m[a[i]]++;
+    string minWindow(string s, string t) {
+        unordered_map<char,int> m,p;
+        int cnt=0;
+        int j=0,i=0;
+        string ans=s;
+        for(auto i:t)
+            p[i]++;
+        int f=0;
+        for(;j<s.length();j++){
+            if(m[s[j]]<p[s[j]])
+                cnt++;
+            m[s[j]]++;
+            while(cnt==t.length()){
+                f=1;
+                if(ans.length()>j-i+1){
+                    ans=s.substr(i,j-i+1);
+                    
                 }
-                if(ans>j-i+1){
-                    ans=j-i+1;
-                    idx=i;
-                }
-            }            
+                m[s[i]]--;
+                if(m[s[i]]<p[s[i]])
+                    cnt--;
+                i++;
+            }
         }
-        string res="";
-        if(idx==-1)
-            return res;
-        for(int i=idx;i<idx+ans;i++)
-            res+=a[i];
-        return res;
-    }
-};
+        if(ans==s&&f==0)
