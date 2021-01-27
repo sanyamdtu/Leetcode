@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void rev(vector<int>& arr,int j){
-        for(int i=0;i<j;i++,j--)
-        {
-            swap(arr[i],arr[j]);
-        }
-    }
     vector<int> pancakeSort(vector<int>& arr) {
         vector<int> ans;
         int n=arr.size();
@@ -19,10 +13,10 @@ public:
             }
             if(maxi!=n-1)
             {
-                rev(arr,maxi);
+                reverse(arr.begin(),maxi+arr.begin()+1);
                 ans.push_back(maxi+1);
                 ans.push_back(n);
-                rev(arr,n-1);
+                reverse(arr.begin(),n-1+arr.begin()+1);
             }   
             n--;
         }
