@@ -103,6 +103,7 @@
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](./solutions/954.%20Array%20of%20Doubled%20Pairs.cpp)|112 ms|
 |959|[ Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[C++](./solutions/959.%20Regions%20Cut%20By%20Slashes.cpp)|12 ms|
 |968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](./solutions/968.%20Binary%20Tree%20Cameras.cpp)|16 ms|
+|969|[ Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[C++](./solutions/969.%20Pancake%20Sorting.cpp)|8 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C++](./solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)|440 ms|
 |974|[ Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[C++](./solutions/974.%20Subarray%20Sums%20Divisible%20by%20K.cpp)|116 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|48 ms|
