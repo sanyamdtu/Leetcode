@@ -115,6 +115,7 @@
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|60 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|8 ms|
 |990|[ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[C++](./solutions/990.%20Satisfiability%20of%20Equality%20Equations.cpp)|16 ms|
+|992|[ Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[C++](./solutions/992.%20Subarrays%20with%20K%20Different%20Integers.cpp)|84 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|12 ms|
 |1001|[ Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[C++](./solutions/1001.%20Grid%20Illumination.cpp)|728 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[C++](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.cpp)|24 ms|
