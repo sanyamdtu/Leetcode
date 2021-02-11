@@ -1,24 +1,24 @@
-#define pb push_back
 typedef long long ll;
+​
 class Solution {
 public:
     int minEatingSpeed(vector<int>& arr, int h) {
-        ll last=0;
-        for(auto i:arr)
-            last=max(last,(ll)i);
-        ll beg=1,ans=INT_MAX;
-        while(beg<=last){
-            ll mid=(beg+last)/2;
-            ll curr=0;
-            for(int i:arr){
-                curr+=(i+mid-1)/mid;
+        ll n=arr.size(),lo=1,hi=1,ans=INT_MAX;
+        for(int i=0;i<n;i++){
+            hi=max(hi,(ll)arr[i]);
+        }
+        while(lo<=hi){
+            ll mid=lo+(hi-lo)/2;
+            ll d=0;
+            for(int i=0;i<n;i++){
+                d+=(arr[i]+mid-1)/mid;
             }
-            if(curr<=h){
-                ans=min(mid,ans);
-                last=mid-1;
+            if(d<=h){
+                ans=min(ans,mid);
+                hi=mid-1;
             }
             else
-                beg=mid+1;
+                lo=mid+1;
         }
         return ans;
     }
