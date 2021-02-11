@@ -89,7 +89,7 @@
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](./solutions/767.%20Reorganize%20String.cpp)|4 ms|
 |781|[ Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[C++](./solutions/781.%20Rabbits%20in%20Forest.cpp)|16 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)|60 ms|
-|786|[ K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C++](./solutions/786.%20K-th%20Smallest%20Prime%20Fraction.cpp)|340 ms|
+|786|[ K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C++](./solutions/786.%20K-th%20Smallest%20Prime%20Fraction.cpp)|4 ms|
 |813|[ Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[C++](./solutions/813.%20Largest%20Sum%20of%20Averages.cpp)|16 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|56 ms|
