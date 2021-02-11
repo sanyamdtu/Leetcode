@@ -92,7 +92,7 @@
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|56 ms|
 |873|[ Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[C++](./solutions/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.cpp)|264 ms|
-|875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|108 ms|
+|875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|48 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|1196 ms|
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[C++](./solutions/907.%20Sum%20of%20Subarray%20Minimums.cpp)|496 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|392 ms|
