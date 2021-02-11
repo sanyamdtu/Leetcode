@@ -58,6 +58,7 @@
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|0 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|4 ms|
 |407|[ Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[C++](./solutions/407.%20Trapping%20Rain%20Water%20II.cpp)|20 ms|
+|410|[ Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C++](./solutions/410.%20Split%20Array%20Largest%20Sum.cpp)|0 ms|
 |413|[ Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./solutions/413.%20Arithmetic%20Slices.cpp)|192 ms|
 |430|[ Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](./solutions/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)|4 ms|
 |436|[ Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[C++](./solutions/436.%20Find%20Right%20Interval.cpp)|108 ms|
