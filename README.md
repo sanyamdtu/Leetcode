@@ -33,6 +33,7 @@
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./solutions/142.%20Linked%20List%20Cycle%20II.cpp)|4 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[C++](./solutions/148.%20Sort%20List.cpp)|288 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|0 ms|
+|169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|12 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.cpp)|4 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|4 ms|
