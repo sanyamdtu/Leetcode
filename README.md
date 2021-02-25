@@ -80,6 +80,7 @@
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|8 ms|
 |646|[ Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[C++](./solutions/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)|428 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|4 ms|
+|650|[ 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[C++](./solutions/650.%202%20Keys%20Keyboard.cpp)|0 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|100 ms|
 |684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[C++](./solutions/684.%20Redundant%20Connection.cpp)|12 ms|
 |685|[ Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[C++](./solutions/685.%20Redundant%20Connection%20II.cpp)|12 ms|
