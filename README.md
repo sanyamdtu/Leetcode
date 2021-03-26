@@ -140,6 +140,7 @@
 |1020|[ Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[C++](./solutions/1020.%20Number%20of%20Enclaves.cpp)|116 ms|
 |1027|[ Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[C++](./solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)|404 ms|
 |1034|[ Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[C++](./solutions/1034.%20Coloring%20A%20Border.cpp)|28 ms|
+|1039|[ Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[C++](./solutions/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon.cpp)|4 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|24 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|132 ms|
 |1091|[ Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./solutions/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)|104 ms|
