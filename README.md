@@ -125,7 +125,7 @@
 |969|[ Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[C++](./solutions/969.%20Pancake%20Sorting.cpp)|8 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C++](./solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)|440 ms|
 |974|[ Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[C++](./solutions/974.%20Subarray%20Sums%20Divisible%20by%20K.cpp)|116 ms|
-|977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|48 ms|
+|977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|28 ms|
 |978|[ Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[C++](./solutions/978.%20Longest%20Turbulent%20Subarray.cpp)|128 ms|
 |979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C++](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.cpp)|8 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[C++](./solutions/983.%20Minimum%20Cost%20For%20Tickets.cpp)|16 ms|
