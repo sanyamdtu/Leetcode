@@ -47,6 +47,7 @@
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|4 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|188 ms|
 |218|[ The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](./solutions/218.%20The%20Skyline%20Problem.cpp)|252 ms|
+|229|[ Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](./solutions/229.%20Majority%20Element%20II.cpp)|8 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|28 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|12 ms|
 |239|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./solutions/239.%20Sliding%20Window%20Maximum.cpp)|400 ms|
