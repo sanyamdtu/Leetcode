@@ -87,6 +87,7 @@
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|N/A|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|8 ms|
+|628|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](./solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)|32 ms|
 |646|[ Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[C++](./solutions/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)|428 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|12 ms|
 |650|[ 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[C++](./solutions/650.%202%20Keys%20Keyboard.cpp)|0 ms|
