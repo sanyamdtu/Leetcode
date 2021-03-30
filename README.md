@@ -102,6 +102,7 @@
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|4 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](./solutions/767.%20Reorganize%20String.cpp)|4 ms|
+|768|[ Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)|[C++](./solutions/768.%20Max%20Chunks%20To%20Make%20Sorted%20II.cpp)|8 ms|
 |769|[ Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[C++](./solutions/769.%20Max%20Chunks%20To%20Make%20Sorted.cpp)|0 ms|
 |781|[ Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[C++](./solutions/781.%20Rabbits%20in%20Forest.cpp)|16 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)|60 ms|
