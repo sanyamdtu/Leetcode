@@ -119,6 +119,7 @@
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|48 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|1196 ms|
 |899|[ Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[C++](./solutions/899.%20Orderly%20Queue.cpp)|0 ms|
+|905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](./solutions/905.%20Sort%20Array%20By%20Parity.cpp)|8 ms|
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[C++](./solutions/907.%20Sum%20of%20Subarray%20Minimums.cpp)|496 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|392 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
