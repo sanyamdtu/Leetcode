@@ -148,6 +148,7 @@
 |1001|[ Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[C++](./solutions/1001.%20Grid%20Illumination.cpp)|728 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[C++](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.cpp)|24 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](./solutions/1004.%20Max%20Consecutive%20Ones%20III.cpp)|132 ms|
+|1007|[ Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[C++](./solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)|108 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)|8 ms|
 |1011|[ Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[C++](./solutions/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|64 ms|
 |1020|[ Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[C++](./solutions/1020.%20Number%20of%20Enclaves.cpp)|116 ms|
