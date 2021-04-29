@@ -183,6 +183,7 @@
 |1283|[ Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[C++](./solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|24 ms|
 |1292|[ Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[C++](./solutions/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.cpp)|160 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|16 ms|
+|1375|[ Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./solutions/1375.%20Bulb%20Switcher%20III.cpp)|52 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|8 ms|
 |1552|[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[C++](./solutions/1552.%20Magnetic%20Force%20Between%20Two%20Balls.cpp)|304 ms|
 |1562|[ Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)|[C++](./solutions/1562.%20Find%20Latest%20Group%20of%20Size%20M.cpp)|216 ms|
