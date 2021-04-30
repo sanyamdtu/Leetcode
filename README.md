@@ -87,6 +87,7 @@
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./solutions/454.%204Sum%20II.cpp)|516 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./solutions/463.%20Island%20Perimeter.cpp)|172 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./solutions/485.%20Max%20Consecutive%20Ones.cpp)|132 ms|
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|28 ms|
 |516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](./solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)|64 ms|
 |542|[ 01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](./solutions/542.%2001%20Matrix.cpp)|116 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
