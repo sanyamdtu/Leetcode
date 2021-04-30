@@ -1,31 +1,27 @@
+typedef long long ll;
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& arr) {
         int n=arr.size();
-        int maxi=INT_MIN;
+        int i=0;
         stack<int> s;
-        vector<int> v(n);
-        for(int i=n-1;i>=0;i--){
-            maxi=max(maxi,arr[i]);
-            s.push(arr[i]);
-        }
-        for(int i=n-1;i>=0;i--){
-            if(arr[i]==maxi){
-                v[i]=-1;
-                s.push(arr[i]);
+        vector<int> ans(n,-1); 
+        while(i<n){
+            while(!s.empty()&&arr[i]>arr[s.top()]){
+                ans[s.top()]=arr[i];
+                s.pop();
             }
-                
-            else{
-                while(!s.empty()&&arr[i]>=s.top()){
-                    s.pop();
-                }
-                if(!s.empty())
-                    v[i]=s.top();
-                else
-                    v[i]=-1;
-                s.push(arr[i]);
+            s.push(i);
+            i++;
+        }
+        i=0;
+        while(i<n){
+            while(!s.empty()&&arr[i]>arr[s.top()]){
+                ans[s.top()]=arr[i];
+                s.pop();
             }
+            i++;
         }
-        return v;
+        return ans;
     }
 };
