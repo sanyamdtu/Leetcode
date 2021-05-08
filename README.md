@@ -128,6 +128,7 @@
 |795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[C++](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.cpp)|24 ms|
 |813|[ Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[C++](./solutions/813.%20Largest%20Sum%20of%20Averages.cpp)|16 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|20 ms|
+|844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|0 ms|
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|12 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|56 ms|
