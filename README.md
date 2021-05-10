@@ -43,6 +43,7 @@
 |124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)|40 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./solutions/125.%20Valid%20Palindrome.cpp)|0 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|12 ms|
+|131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./solutions/131.%20Palindrome%20Partitioning.cpp)|120 ms|
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[C++](./solutions/132.%20Palindrome%20Partitioning%20II.cpp)|20 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./solutions/134.%20Gas%20Station.cpp)|0 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./solutions/142.%20Linked%20List%20Cycle%20II.cpp)|4 ms|
