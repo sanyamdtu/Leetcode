@@ -101,6 +101,7 @@
 |516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](./solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)|64 ms|
 |542|[ 01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](./solutions/542.%2001%20Matrix.cpp)|116 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
+|556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[C++](./solutions/556.%20Next%20Greater%20Element%20III.cpp)|0 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|N/A|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|8 ms|
 |628|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](./solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)|32 ms|
