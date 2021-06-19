@@ -184,7 +184,7 @@
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|132 ms|
 |1091|[ Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./solutions/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)|104 ms|
 |1105|[ Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./solutions/1105.%20Filling%20Bookcase%20Shelves.cpp)|1396 ms|
-|1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
+|1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|4 ms|
 |1139|[ Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[C++](./solutions/1139.%20Largest%201-Bordered%20Square.cpp)|N/A|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|212 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[C++](./solutions/1143.%20Longest%20Common%20Subsequence.cpp)|8 ms|
