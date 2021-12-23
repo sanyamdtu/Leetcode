@@ -211,3 +211,4 @@
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|8 ms|
 |1552|[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[C++](./solutions/1552.%20Magnetic%20Force%20Between%20Two%20Balls.cpp)|304 ms|
 |1562|[ Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)|[C++](./solutions/1562.%20Find%20Latest%20Group%20of%20Size%20M.cpp)|216 ms|
+|2106|[ Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)|[C++](./solutions/2106.%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.cpp)|824 ms|
