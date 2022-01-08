@@ -209,6 +209,7 @@
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|124 ms|
 |1375|[ Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./solutions/1375.%20Bulb%20Switcher%20III.cpp)|52 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|8 ms|
+|1481|[ Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[C++](./solutions/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.cpp)|152 ms|
 |1509|[ Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[C++](./solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.cpp)|139 ms|
 |1552|[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)|[C++](./solutions/1552.%20Magnetic%20Force%20Between%20Two%20Balls.cpp)|304 ms|
 |1562|[ Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)|[C++](./solutions/1562.%20Find%20Latest%20Group%20of%20Size%20M.cpp)|216 ms|
