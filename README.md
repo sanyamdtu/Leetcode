@@ -151,6 +151,7 @@
 |899|[ Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[C++](./solutions/899.%20Orderly%20Queue.cpp)|0 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](./solutions/905.%20Sort%20Array%20By%20Parity.cpp)|8 ms|
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[C++](./solutions/907.%20Sum%20of%20Subarray%20Minimums.cpp)|496 ms|
+|910|[ Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[C++](./solutions/910.%20Smallest%20Range%20II.cpp)|31 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[C++](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.cpp)|48 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[C++](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.cpp)|0 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|392 ms|
