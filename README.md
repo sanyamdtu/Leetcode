@@ -157,6 +157,7 @@
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|92 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
+|945|[ Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[C++](./solutions/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.cpp)|344 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|12 ms|
 |947|[ Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](./solutions/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)|104 ms|
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./solutions/948.%20Bag%20of%20Tokens.cpp)|7 ms|
