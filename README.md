@@ -159,6 +159,7 @@
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|12 ms|
 |947|[ Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](./solutions/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)|104 ms|
+|948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./solutions/948.%20Bag%20of%20Tokens.cpp)|7 ms|
 |950|[ Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[C++](./solutions/950.%20Reveal%20Cards%20In%20Increasing%20Order.cpp)|4 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[C++](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.cpp)|4 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](./solutions/954.%20Array%20of%20Doubled%20Pairs.cpp)|112 ms|
