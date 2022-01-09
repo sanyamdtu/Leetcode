@@ -205,6 +205,7 @@
 |1277|[ Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[C++](./solutions/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp)|120 ms|
 |1283|[ Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[C++](./solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|24 ms|
 |1292|[ Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[C++](./solutions/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.cpp)|160 ms|
+|1296|[ Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[C++](./solutions/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.cpp)|249 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|16 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|124 ms|
 |1375|[ Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./solutions/1375.%20Bulb%20Switcher%20III.cpp)|52 ms|
