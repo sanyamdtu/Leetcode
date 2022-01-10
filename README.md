@@ -142,6 +142,7 @@
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|12 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|4 ms|
+|870|[ Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[C++](./solutions/870.%20Advantage%20Shuffle.cpp)|208 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|56 ms|
 |873|[ Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[C++](./solutions/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.cpp)|264 ms|
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|48 ms|
