@@ -137,6 +137,7 @@
 |786|[ K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C++](./solutions/786.%20K-th%20Smallest%20Prime%20Fraction.cpp)|4 ms|
 |795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[C++](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.cpp)|24 ms|
 |813|[ Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[C++](./solutions/813.%20Largest%20Sum%20of%20Averages.cpp)|16 ms|
+|826|[ Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[C++](./solutions/826.%20Most%20Profit%20Assigning%20Work.cpp)|117 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|20 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|0 ms|
 |846|[ Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](./solutions/846.%20Hand%20of%20Straights.cpp)|238 ms|
