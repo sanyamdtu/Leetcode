@@ -98,6 +98,7 @@
 |443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|4 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|36 ms|
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](./solutions/450.%20Delete%20Node%20in%20a%20BST.cpp)|72 ms|
+|452|[ Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[C++](./solutions/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)|484 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./solutions/454.%204Sum%20II.cpp)|516 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./solutions/463.%20Island%20Perimeter.cpp)|172 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./solutions/485.%20Max%20Consecutive%20Ones.cpp)|132 ms|
