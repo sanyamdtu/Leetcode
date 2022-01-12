@@ -227,6 +227,7 @@
 |1562|[ Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)|[C++](./solutions/1562.%20Find%20Latest%20Group%20of%20Size%20M.cpp)|216 ms|
 |1589|[ Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/)|[C++](./solutions/1589.%20Maximum%20Sum%20Obtained%20of%20Any%20Permutation.cpp)|372 ms|
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[C++](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.cpp)|183 ms|
+|1665|[ Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)|[C++](./solutions/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.cpp)|722 ms|
 |1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.cpp)|236 ms|
 |1838|[ Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[C++](./solutions/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.cpp)|359 ms|
 |2106|[ Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)|[C++](./solutions/2106.%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.cpp)|824 ms|
