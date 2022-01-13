@@ -220,6 +220,7 @@
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|16 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|124 ms|
 |1375|[ Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./solutions/1375.%20Bulb%20Switcher%20III.cpp)|52 ms|
+|1383|[ Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[C++](./solutions/1383.%20Maximum%20Performance%20of%20a%20Team.cpp)|68 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|8 ms|
 |1402|[ Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[C++](./solutions/1402.%20Reducing%20Dishes.cpp)|4 ms|
 |1481|[ Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[C++](./solutions/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.cpp)|152 ms|
