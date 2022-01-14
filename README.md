@@ -238,5 +238,6 @@
 |1665|[ Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)|[C++](./solutions/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.cpp)|722 ms|
 |1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.cpp)|236 ms|
 |1838|[ Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[C++](./solutions/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.cpp)|359 ms|
+|1996|[ The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[C++](./solutions/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp)|1357 ms|
 |2106|[ Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)|[C++](./solutions/2106.%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.cpp)|824 ms|
 |2126|[ Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)|[C++](./solutions/2126.%20Destroying%20Asteroids.cpp)|320 ms|
