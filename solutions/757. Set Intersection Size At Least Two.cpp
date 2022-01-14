@@ -10,30 +10,33 @@ class Solution {
 public:
     int intersectionSizeTwo(vector<vector<int>>& arr) {
         sort(arr.begin(),arr.end(),comp);
-        int c=2;
+        int c=0;
         vector<int> v;
         int n=arr.size();
+        int a=-1,b=-1;
         for(int i=0;i<n;i++){
             int s=arr[i][0];
             int e=arr[i][1];
-            int idx=search(v,s);
-            if(idx==v.size()){
-                v.push_back(e-1);
-                v.push_back(e);
+            if(b<s){
+                c+=2;
+                a=e-1;
+                b=e;
             }
-            else if(idx==v.size()-1){
-                if(v[idx]<e)
-                    v.push_back(e);
+            else if(a>=s&&b<=e)
+                continue;
+            else{
+                if(b<e){
+                    a=b;
+                    b=e;
+                    c++;
+                }
                 else{
-                    v.pop_back();
-                    v.push_back(e-1);
-                    v.push_back(e);
+                   a=e-1;
+                    b=e;
+                    c++;
                 }
             }
-            // for(auto i:v)
-            //     cout<<i<<" ";
-            // cout<<endl;
         }
-        return v.size();
+        return c;
     }
 };
