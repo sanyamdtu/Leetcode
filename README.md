@@ -79,6 +79,7 @@
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./solutions/316.%20Remove%20Duplicate%20Letters.cpp)|4 ms|
 |319|[ Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./solutions/319.%20Bulb%20Switcher.cpp)|0 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./solutions/322.%20Coin%20Change.cpp)|956 ms|
+|329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|28 ms|
 |343|[ Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./solutions/343.%20Integer%20Break.cpp)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|32 ms|
 |345|[ Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./solutions/345.%20Reverse%20Vowels%20of%20a%20String.cpp)|8 ms|
