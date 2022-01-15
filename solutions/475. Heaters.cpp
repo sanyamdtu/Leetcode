@@ -4,24 +4,23 @@ public:
         sort(arr.begin(),arr.end());
         sort(h.begin(),h.end());
         int n=arr.size(),m=h.size();
-        int lo=0,hi=0;
-        for(auto i:h)
-            hi=max(i,hi);
-        for(auto i:arr)
-            hi=max(hi,i);
-        int ans=-1;
-        while(lo<=hi){
-            int mid=lo+(hi-lo)/2;
-            int i=0,j=0;
-            for(;i<n&&j<m;){
-                int s=h[j]-mid;
-                int e=h[j]+mid;
-                if(s<=arr[i]&&arr[i]<=e){
-                    i++;
-                }
-                else{
-                    j++;
-                } 
+        long long j=0,ans=0;
+        long long a=INT_MIN,b=arr[0];
+        int i=0;
+        for(;i<n&&j<m;){
+            b=h[j];
+            if(b<arr[i]&&j!=m-1)
+            {
+                a=b;
+                j++;
+                continue;
+            }         
+            else{
+                // cout<<a<<" "<<arr[i]<<" "<<b<<endl;
+                 ans=max(ans,min(abs(arr[i]-a),abs(b-arr[i])));
+                i++;
             }
-            // cout<<mid<<" "<<i<<endl;
-            if(i==n){
+        }
+        return ans;
+    }
+};
