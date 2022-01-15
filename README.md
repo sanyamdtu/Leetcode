@@ -214,6 +214,7 @@
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[C++](./solutions/1143.%20Longest%20Common%20Subsequence.cpp)|8 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[C++](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.cpp)|8 ms|
 |1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.cpp)|100 ms|
+|1170|[ Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[C++](./solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.cpp)|7 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[C++](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.cpp)|0 ms|
 |1203|[ Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[C++](./solutions/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.cpp)|180 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|16 ms|
