@@ -75,6 +75,7 @@
 |301|[ Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](./solutions/301.%20Remove%20Invalid%20Parentheses.cpp)|88 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|36 ms|
 |309|[ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](./solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)|12 ms|
+|310|[ Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](./solutions/310.%20Minimum%20Height%20Trees.cpp)|240 ms|
 |312|[ Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./solutions/312.%20Burst%20Balloons.cpp)|312 ms|
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./solutions/316.%20Remove%20Duplicate%20Letters.cpp)|4 ms|
 |319|[ Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./solutions/319.%20Bulb%20Switcher.cpp)|0 ms|
