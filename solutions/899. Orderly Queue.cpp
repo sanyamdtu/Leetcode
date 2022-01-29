@@ -4,16 +4,15 @@ public:
         if(k>=2){
             sort(s.begin(),s.end());
             return s;
-        }   
-        int n=s.length();
-        string b=s;
-        for(int i=0;i<n;i++){
-            char a=s[0];
-            s.erase(s.begin());
-            s+=a;
-            if(!lexicographical_compare(b.begin(),b.end(),s.begin(),s.end()))
-                b=s;
         }
-        return b;
+        string ans=s;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            string p=s.substr(1)+s[0];
+            s=p;
+            if(ans>p)
+                ans=p;
+        }
+        return ans;
     }
 };
