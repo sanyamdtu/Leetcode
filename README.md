@@ -170,6 +170,7 @@
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[C++](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.cpp)|48 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[C++](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.cpp)|0 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|392 ms|
+|925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[C++](./solutions/925.%20Long%20Pressed%20Name.cpp)|0 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|24 ms|
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|92 ms|
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|184 ms|
