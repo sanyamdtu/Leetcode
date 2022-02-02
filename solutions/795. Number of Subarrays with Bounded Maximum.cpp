@@ -1,19 +1,20 @@
 class Solution {
 public:
     int numSubarrayBoundedMax(vector<int>& arr, int l, int r) {
-        long long ans=0,i=0,j=0,temp=0,n=arr.size();
-        for(int i=0;i<n;i++){
-            if(arr[i]>r){
-                temp=0;
-                j=i+1;
+        int ans=0,i=0,j=0,n=arr.size();
+        int x=0;
+        for(j=0;j<n;j++){
+            if(arr[j]<l){
+                ans+=x;
             }
-            else if(arr[i]>=l){
-                temp=i-j+1;
-                ans+=temp;
+            else if(arr[j]<=r){
+                ans+=j-i+1;
+                x=j-i+1;
             }
             else{
-                ans+=temp;
-            }
+                i=j+1;
+                x=0;
+            }
         }
         return ans;
     }
