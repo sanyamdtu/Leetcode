@@ -145,7 +145,7 @@
 |781|[ Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[C++](./solutions/781.%20Rabbits%20in%20Forest.cpp)|16 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)|60 ms|
 |786|[ K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[C++](./solutions/786.%20K-th%20Smallest%20Prime%20Fraction.cpp)|4 ms|
-|795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[C++](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.cpp)|24 ms|
+|795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[C++](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.cpp)|79 ms|
 |813|[ Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[C++](./solutions/813.%20Largest%20Sum%20of%20Averages.cpp)|16 ms|
 |826|[ Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[C++](./solutions/826.%20Most%20Profit%20Assigning%20Work.cpp)|117 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|20 ms|
