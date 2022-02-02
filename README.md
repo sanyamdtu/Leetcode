@@ -160,6 +160,7 @@
 |873|[ Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[C++](./solutions/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.cpp)|264 ms|
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|48 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|1196 ms|
+|881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[C++](./solutions/881.%20Boats%20to%20Save%20People.cpp)|168 ms|
 |891|[ Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)|[C++](./solutions/891.%20Sum%20of%20Subsequence%20Widths.cpp)|48 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|168 ms|
 |899|[ Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[C++](./solutions/899.%20Orderly%20Queue.cpp)|4 ms|
